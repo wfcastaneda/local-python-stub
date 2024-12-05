@@ -28,5 +28,5 @@ Follow the official installation guides:
 Simply run:
 
 ```bash
-./activate.sh
+source activate.sh
 ```
