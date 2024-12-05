@@ -25,7 +25,7 @@ Follow the official installation guides:
 
 ## Quick Start
 
-Simply run:
+Run:
 
 ```bash
 source activate.sh
